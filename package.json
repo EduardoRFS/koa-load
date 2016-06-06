@@ -1,0 +1,27 @@
+{
+  "name": "koa-load",
+  "version": "1.0.0",
+  "description": "Automatically load any koa-middleware in your package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoRFS/koa-load.git"
+  },
+  "keywords": [
+    "koa",
+    "load",
+    "middlewares"
+  ],
+  "author": "EduardoRFS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EduardoRFS/koa-load/issues"
+  },
+  "homepage": "https://github.com/EduardoRFS/koa-load#readme",
+  "dependencies": {
+    "gulp-load-plugins": "^1.2.4"
+  }
+}
